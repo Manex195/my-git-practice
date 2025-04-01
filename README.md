@@ -1,2 +1,2 @@
-# my-git-practice
+minor update to readme file
 practice repository to learn git.
